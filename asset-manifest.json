@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/gitupload/static/css/main.073c9b0a.css",
-    "main.js": "/gitupload/static/js/main.57805e06.js",
-    "static/js/787.f2b0bfd7.chunk.js": "/gitupload/static/js/787.f2b0bfd7.chunk.js",
-    "static/media/logo.svg": "/gitupload/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/gitupload/static/css/main.dcdeadcb.css",
+    "main.js": "/gitupload/static/js/main.1cd57838.js",
+    "static/media/herbel.jpg": "/gitupload/static/media/herbel.b2e34aa1de8996bd16a5.jpg",
+    "static/media/drnavdeepsharma.webp": "/gitupload/static/media/drnavdeepsharma.25dc9ab8fa3a1f0f31bc.webp",
     "index.html": "/gitupload/index.html",
-    "main.073c9b0a.css.map": "/gitupload/static/css/main.073c9b0a.css.map",
-    "main.57805e06.js.map": "/gitupload/static/js/main.57805e06.js.map",
-    "787.f2b0bfd7.chunk.js.map": "/gitupload/static/js/787.f2b0bfd7.chunk.js.map"
+    "main.dcdeadcb.css.map": "/gitupload/static/css/main.dcdeadcb.css.map",
+    "main.1cd57838.js.map": "/gitupload/static/js/main.1cd57838.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.57805e06.js"
+    "static/css/main.dcdeadcb.css",
+    "static/js/main.1cd57838.js"
   ]
 }
